@@ -27,8 +27,12 @@ export default {
     },
     screens: {
       sm: "375px",
+      md: "770px",
       lg: "1440px",
     },
+    dropShadow: {
+      "3xl": "0 35px 35px rgba(0, 0, 0, 1)",
+    }
   },
   plugins: [],
 };
