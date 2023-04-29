@@ -7,7 +7,8 @@ import Visual from "../assets/images/icon-visual.svg";
 
 function Results() {
   return (
-    <div className="pb-4 lg:flex justify-center lg:mt-[10rem]">
+    <div className="pb-4 lg:flex justify-center lg:min-h-screen lg:items-center">
+
       <header
         className="
       text-white 
@@ -22,7 +23,7 @@ function Results() {
       lg:relative
       "
       >
-        <section className="flex flex-col items-center text-center p-2 lg:h-full lg:w-[20rem]">
+        <section className="flex flex-col items-center text-center p-2 lg:h-[25rem] lg:w-[20rem]">
           <div className="p-4">
             <p className="text-lightLavender">Your Result</p>
           </div>
@@ -48,7 +49,7 @@ function Results() {
         </section>
       </header>
 
-      <main className="lg:shadow-xl lg:rounded-r-xl">
+      <div className="lg:shadow-xl lg:rounded-r-xl lg:h-[25rem]">
         <section className="flex flex-col gap-4 p-8 lg:w-80 lg:px-[2rem] lg:pl-[3rem] lg:py-0">
           <h2 className="pt-4">Summary</h2>
 
@@ -107,7 +108,7 @@ function Results() {
             </button>
           </div>
         </section>
-      </main>
+      </div>
     </div>
   );
 }
