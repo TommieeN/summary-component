@@ -8,17 +8,11 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
@@ -29,10 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./summary-component-challenge/src/assets/results/desktop-component.pngjpg)
-![Mobile](./summary-component-challenge/src/assets/results/mobile-component.pngjpg)
+<img width="1440" alt="mobile-component" src="https://user-images.githubusercontent.com/123577810/235286313-efab291d-103c-4702-bac8-0709ec9a5133.png">
 
-
+<img width="1440" alt="desktop-component" src="https://user-images.githubusercontent.com/123577810/235286302-5f0467c4-008f-4311-b132-d8b7e5b170af.png">
 
 ### Links
 
