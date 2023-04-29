@@ -43,10 +43,11 @@ Users should be able to:
 - Learned how to setup Tailwind for react
 - Knowing fundamentals of CSS helped a lot
 - learned lots of tailwind properties
+- creating custom configurations for tailwindCSS
 
 ### Useful resources
 
-- [TailWindCSS setup](https://tailwindcss.com/docs/guides/create-react-app) - This helped me set up tailwind since it was pretty much my first time trying to figure it out. You can also check out the their documentation if you want to learn what the classNames mean for my code. Super easy, just type it in the search bar on their website and it will spit out what that exact code is doing. It's basically like short-hand syntax for CSS.
+- [TailWindCSS setup](https://tailwindcss.com/docs/guides/create-react-app) - This helped me set up tailwind. You can also check out their documentation if you want to learn what the classNames mean. Super easy, just type it in the search bar on their website and it will spit out what that exact code is doing. It's basically like short-hand syntax for CSS.
 
 ## Author
 
