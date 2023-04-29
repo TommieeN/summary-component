@@ -8,17 +8,11 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
@@ -29,15 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./summary-component-challenge/src/assets/results/desktop-component.pngjpg)
-![Mobile](./summary-component-challenge/src/assets/results/mobile-component.pngjpg)
+<img width="1440" alt="mobile-component" src="https://user-images.githubusercontent.com/123577810/235286313-efab291d-103c-4702-bac8-0709ec9a5133.png">
 
-
+<img width="1440" alt="desktop-component" src="https://user-images.githubusercontent.com/123577810/235286302-5f0467c4-008f-4311-b132-d8b7e5b170af.png">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/componentsolutionreactjstailwindcss-39XS6JorL1)
+- Live Site URL: [Deployed](https://loquacious-seahorse-a6d852.netlify.app/)
 
 ### Built with
 
@@ -50,12 +43,13 @@ Users should be able to:
 - Learned how to setup Tailwind for react
 - Knowing fundamentals of CSS helped a lot
 - learned lots of tailwind properties
+- creating custom configurations for tailwindCSS
 
 ### Useful resources
 
-- [TailWindCSS setup](https://tailwindcss.com/docs/guides/create-react-app) - This helped me set up tailwind since it was pretty much my first time trying to figure it out. You can also check out the their documentation if you want to learn what the classNames mean for my code. Super easy, just type it in the search bar on their website and it will spit out what that exact code is doing. It's basically like short-hand syntax for CSS.
+- [TailWindCSS setup](https://tailwindcss.com/docs/guides/create-react-app) - This helped me set up tailwind. You can also check out their documentation if you want to learn what the classNames mean. Super easy, just type it in the search bar on their website and it will spit out what that exact code is doing. It's basically like short-hand syntax for CSS.
 
 ## Author
 
-- Website - [Tommy](https://www.tommy-js.com)
+- Website - https://www.tommy-js.com
 - Frontend Mentor - [@TommieeN](https://www.frontendmentor.io/profile/TommieeN)
