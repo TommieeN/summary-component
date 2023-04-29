@@ -51,5 +51,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Tommy](https://www.tommy-js.com)
+- Website - https://www.tommy-js.com
 - Frontend Mentor - [@TommieeN](https://www.frontendmentor.io/profile/TommieeN)
