@@ -7,27 +7,27 @@ import Visual from "../assets/images/icon-visual.svg";
 
 function Results() {
   return (
-    <div className="pb-4 md:flex justify-center md:mt-24">
-
+    <div className="pb-4 lg:flex justify-center lg:mt-[10rem]">
       <header
         className="
       text-white 
       bg-gradient-to-b from-slateBg to-royalBg 
       rounded-b-3xl 
-      md:rounded-3xl 
-      md:flex 
-      md:justify-center 
-      md:items-center
+      lg:rounded-3xl 
+      lg:flex 
+      lg:justify-center 
+      lg:items-center
+      lg:mr-[-1rem]
+      lg:z-1
+      lg:relative
       "
       >
-        <section className="flex flex-col items-center text-center p-2 md:h-full md:w-[20rem]">
+        <section className="flex flex-col items-center text-center p-2 lg:h-full lg:w-[20rem]">
           <div className="p-4">
             <p className="text-lightLavender">Your Result</p>
           </div>
           <div
             className="
-            flex
-            flex-column
           bg-gradient-to-b from-violetCircle to-persianCircle 
           rounded-full 
           p-5 
@@ -40,16 +40,16 @@ function Results() {
           </div>
           <div className="p-2">
             <h2 className="text-2xl p-2">Great</h2>
-            <p className="text-lightLavender pb-[1.5rem] w-[15rem] md:w-[13rem]">
-              You scored higher than 65% of the people who have taken
-              these tests.
+            <p className="text-lightLavender pb-[1.5rem] w-[15rem] lg:w-[13rem]">
+              You scored higher than 65% of the people who have taken these
+              tests.
             </p>
           </div>
         </section>
       </header>
 
-      <main className="md:shadow-xl md:rounded-r-xl">
-        <section className="flex flex-col gap-4 p-8 md:w-80 md:px-[2rem] md:py-0">
+      <main className="lg:shadow-xl lg:rounded-r-xl">
+        <section className="flex flex-col gap-4 p-8 lg:w-80 lg:px-[2rem] lg:pl-[3rem] lg:py-0">
           <h2 className="pt-4">Summary</h2>
 
           <div className="flex justify-between bg-lightRedOp rounded-lg p-3">
@@ -91,16 +91,18 @@ function Results() {
               72 <span className="text-darkGrayBlueOp">/ 100</span>
             </p>
           </div>
-          
+
           <div className="flex justify-center py-2">
-            <button className="
+            <button
+              className="
             text-white 
             rounded-full 
             bg-darkGrayBlue 
             w-full 
             py-3 
             hover:bg-gradient-to-b from-slateBg to-royalBg
-            ">
+            "
+            >
               Continue
             </button>
           </div>

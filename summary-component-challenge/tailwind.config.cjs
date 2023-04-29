@@ -27,7 +27,6 @@ export default {
     },
     screens: {
       sm: "375px",
-      md: "770px",
       lg: "1440px",
     },
     dropShadow: {
