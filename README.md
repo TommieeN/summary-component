@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/componentsolutionreactjstailwindcss-39XS6JorL1)
 - Live Site URL: [Deployed](https://loquacious-seahorse-a6d852.netlify.app/)
 
 ### Built with
